@@ -29,7 +29,7 @@
   "dependencies": {
     "fs-extra": "^0.23.1",
     "nan": "^2.0.5",
-    "node-pre-gyp": "0.6.25"
+    "node-pre-gyp": "0.6.24"
   },
   "main": "./src/openalpr",
   "binary": {
