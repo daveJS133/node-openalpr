@@ -11,17 +11,6 @@
 	"lpr",
 	"openalpr"
   ],
-  "author": {
-    "name": "netPark",
-    "email": "klawrence@netpark.us",
-    "url": "https://www.netpark.us"
-  },
-  "contributors": [
-    {
-      "name": "Kevin Lawrence",
-      "email": "klawrence@netpark.us"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/netPark/node-openalpr.git"
